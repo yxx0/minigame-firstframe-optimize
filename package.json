@@ -1,0 +1,7 @@
+{
+  "name": "minigame-firstframe-optimize",
+  "version": "1.0.0",
+  "description": "小游戏首帧渲染优化",
+  "author": "yxx0",
+  "main": "main.js"
+}
